@@ -36,9 +36,11 @@ https://public.tableau.com/app/profile/ellie.culverhouse/viz/PredictingChangesin
 
 World Glaciers & Ice Caps Map:
 [worldglaciers.pdf](https://github.com/Ekenc/Project4/files/11715906/worldglaciers.pdf)
+
 Due to the large size of the file it made more sense to run the map on a seperate Tableau workbook then import it onto the main dashboard as a pdf file. Another complication of the file size was being unable to push a file of it's size to GitHub. The data for the shapefiles was pulled from the National Snow and Ice Data Center and directly sourced in our credits below.
 https://public.tableau.com/app/profile/ellie.culverhouse/viz/worldglaciersmap/Dashboard1
 
+We Used Pandas to create visualizations that
 
 ## Sources and Credits
 GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1. Boulder Colorado, USA.  NASA National Snow and Ice Data Center Distributed Active Archive Center.  DOI: https://doi.org/10.7265/N5V98602  [6/23].
