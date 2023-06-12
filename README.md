@@ -43,11 +43,12 @@ This model projected well continuing a Strong Linear Relationship all the way th
 We used Tableau Public to generate a dashbaord to organize our data outcomes in a more visually pleasing way for our audience. While the Tableau Public workobooks are in this repository to view them more easily, links to the publihsed dashboards will be provided by the corresponding visualization.
 
 The Dahsboard:
-[GlacierDashboard.pdf](https://github.com/Ekenc/Project4/files/11715919/GlacierDashboard.pdf)
+[dash.pdf](https://github.com/Ekenc/Project4/files/11716584/dash.pdf)
+
 https://public.tableau.com/app/profile/ellie.culverhouse/viz/PredictingChangesinGlacierMassandSeaLevel/Dashboard1
 
 World Glaciers & Ice Caps Map:
-[worldglaciers.pdf](https://github.com/Ekenc/Project4/files/11715906/worldglaciers.pdf)
+[worldglaciers.pdf](https://github.com/Ekenc/Project4/files/11716586/worldglaciers.pdf)
 
 Due to the large size of the file it made more sense to run the map on a seperate Tableau workbook then import it onto the main dashboard as a pdf file. Another complication of the file size was being unable to push a file of it's size to GitHub. The data for the shapefiles was pulled from the National Snow and Ice Data Center and directly sourced in our credits below.
 https://public.tableau.com/app/profile/ellie.culverhouse/viz/worldglaciersmap/Dashboard1
