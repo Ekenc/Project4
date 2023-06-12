@@ -43,8 +43,7 @@ This model projected well continuing a Strong Linear Relationship all the way th
 We used Tableau Public to generate a dashbaord to organize our data outcomes in a more visually pleasing way for our audience. While the Tableau Public workobooks are in this repository to view them more easily, links to the publihsed dashboards will be provided by the corresponding visualization.
 
 The Dahsboard:
-
-[dash.pdf](https://github.com/Ekenc/Project4/files/11716606/dash.pdf)
+[dash.pdf](https://github.com/Ekenc/Project4/files/11716665/dash.pdf)
 
 https://public.tableau.com/app/profile/ellie.culverhouse/viz/PredictingChangesinGlacierMassandSeaLevel/Dashboard1
 
