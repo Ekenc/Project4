@@ -93,7 +93,13 @@ From results from our model & statistical analysis:
 - Greenhouse gasses concentration increase does have correlation in the decrease in average glacier mass and increase in sea level
 - Global average temperature change does have correlation in the decrease in average glacier mass and increase in sea level
 
+### 5. Future Applications
 
+The linear models can be used with differnt sets of projected data to accurately predict different outcomes as world data changes due to environmental concerns.
+
+Other models that could be tried out it is polynomial regression because the glacier data appears to follow a higher order polynomial.
+
+Lastly, with more time and data we would want to make more geospacial visulaizations projections with the predicted data.
 
 ## Sources and Credits
 GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1. Boulder Colorado, USA.  NASA National Snow and Ice Data Center Distributed Active Archive Center.  DOI: https://doi.org/10.7265/N5V98602  [6/23].
