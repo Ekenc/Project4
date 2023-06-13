@@ -86,6 +86,13 @@ World Glaciers & Ice Caps Map:
 Due to the large size of the file it made more sense to run the map on a seperate Tableau workbook then import it onto the main dashboard as a pdf file. Another complication of the file size was being unable to push a file of it's size to GitHub. The data for the shapefiles was pulled from the National Snow and Ice Data Center and directly sourced in our credits below.
 https://public.tableau.com/app/profile/ellie.culverhouse/viz/worldglaciersmap/Dashboard1
 
+### 4. Conclusion
+We were successful in creating a model with a high accuracy in the prediction of future data
+
+From results from our model & statistical analysis:
+- Greenhouse gasses concentration increase does have correlation in the decrease in average glacier mass and increase in sea level
+- Global average temperature change does have correlation in the decrease in average glacier mass and increase in sea level
+
 
 
 ## Sources and Credits
