@@ -1,4 +1,4 @@
-# Predicting Changes in Glaciers Mass And Sea Level
+# Predicting Changes in Glacier Mass And Sea Level
 
 ## Project Description
 
